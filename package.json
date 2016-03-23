@@ -1,0 +1,25 @@
+{
+  "name": "nf-util",
+  "version": "1.0.0",
+  "description": "'small util and helpers'",
+  "main": "./lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newsflex/nf-util.git"
+  },
+  "author": "newsflex",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/newsflex/nf-util/issues"
+  },
+  "homepage": "https://github.com/newsflex/nf-util#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
